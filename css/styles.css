@@ -1,0 +1,195 @@
+/*
+* TAG SELECTORS
+*/
+
+a {
+  color: #df7861;
+}
+
+body {
+  font-family: "Poppins", serif;
+  margin: 0px;
+  text-align: center;
+}
+
+h1 {
+  color: #df7861;
+  font-family: "Sacramento", serif;
+  font-size: 4rem; /* 1em = 16px = 100% */
+  margin: 50px auto 0px auto;
+}
+
+h2 {
+  color: #ecb390;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #df7861;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  color: #d4e2d4;
+  border-style: none none dotted;
+  border-width: 10px;
+  width: 10%;
+}
+
+p {
+  line-height: 2;
+}
+
+/*
+* CLASS SELECTORS
+*/
+
+.bottom-cloud {
+  bottom: 50%;
+  left: 20%;
+  position: absolute;
+}
+
+.bottom-container {
+  background-color: #d4e2d4;
+  line-height: 2;
+  padding: 20px 20px;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: "Poppins", serif;
+  font-size: 20px;
+  font-weight: 50;
+  padding: 20px;
+  background-color: #df7861;
+  border: solid #df7861 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background: #ecb390;
+  border: solid #ecb390 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 100px auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: auto;
+}
+
+.copyright {
+  color: #ffffff;
+  font-size: 10;
+}
+
+.engineer {
+  font-weight: normal;
+}
+
+.first-tree {
+  position: absolute;
+  width: 10%;
+  bottom: 0;
+  right: 20%;
+}
+
+.footer-link {
+  margin: auto 10px;
+  font-family: "Poppins", serif;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #ecb390;
+}
+
+.fox {
+  position: absolute;
+  bottom: 0;
+  right: 15%;
+  width: 5%;
+}
+
+.middle-container {
+  margin: 100px auto;
+  width: 50%;
+}
+
+.mountain {
+  width: 30%;
+}
+
+.profile {
+  margin: auto;
+  margin-bottom: 100px;
+  width: 50%;
+}
+
+.second-tree {
+  position: absolute;
+  width: 10%;
+  bottom: 0;
+  left: 10%;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.skill-coding {
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-videogame {
+  float: right;
+  margin-left: 30px;
+  width: 30%;
+}
+
+.third-tree {
+  position: absolute;
+  width: 10%;
+  bottom: 0;
+  left: 20%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 5%;
+}
+
+.top-container {
+  background-color: #fcf8e8;
+  padding-top: 100px;
+  position: relative;
+}
+
+/*
+* ID SELECTORS
+*/
